@@ -1,0 +1,62 @@
+.profile {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 300px;
+    border: 1px solid #a400bc52;
+    background-color: #ffe6ff;
+    border-radius: 15%;
+}
+
+.description {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.avatar {
+    margin-top: 30px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    background-color: #dfa0e9b8;
+    width: 200px;
+    justify-content: center;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.tag {
+    margin-top: 0;
+    color: gray;
+    margin-bottom: 15px;
+}
+
+.location {
+    margin-top: 0;
+    color: gray;
+    margin-bottom: 15px;
+}
+
+.stats {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+}
+
+.card_dscr {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    font-weight: 700;
+}
